@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there! I'm shige
 
-- 🧑‍💻 I'm a Full-stack engineer.
+- 🧑‍💻 I'm a Full-stack engineer. I have been working as an engineer since August 2023.
 - 🌱 I’m currently learning react and aws!
 - 📫 How to reach me: w.yunoki.shigeyuki@gmail.com
 <br>
