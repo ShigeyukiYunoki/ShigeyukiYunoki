@@ -39,3 +39,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shige8&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shige8&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shige8&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shige8&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shige8&theme=gruvbox&utcOffset=9)
